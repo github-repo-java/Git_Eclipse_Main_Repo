@@ -10,7 +10,7 @@ public class Test_02 {
 		
 		System.out.println("New Updates from Developer 02");
 		
-		
+		System.out.println("New Updates from Developer 01");
 	}
 	
 }
